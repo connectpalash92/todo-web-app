@@ -23,7 +23,5 @@ A simple and intuitive To-Do List application designed to help you manage tasks 
 4. Use the red delete button to remove tasks.
 
 ## Live Demo
-Check out the app here: [Live Demo](#) (Replace with your GitHub Pages link)
+Check out the app here: [[Live Demo](https://connectpalash92.github.io/todo-web-app/)](#) (Replace with your GitHub Pages link)
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
